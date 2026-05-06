@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "GetOutofMyHouse.slnx"
+    "dotnet.defaultSolution": "GOOMH.slnx"
 }
