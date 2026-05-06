@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 204dc061fb3ebdf4aa5cfee93c638238, type: 3}
+  m_Name: WaterTower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  range: 5
+  shootInterval: 2
+  projectileSpeed: 10
+  projectileDuration: 10
+  damage: 0.2
+  knockback: 0
+  slowDown: 0.3
+  dot: 0
+  cost: 75
+  description: Sprays bugs with water to slow them down
+  sprite: {fileID: 6269464962185401643, guid: 0a8b7d04cbccc1d4bb9cd1a59787f090, type: 3}
+  prefab: {fileID: 8661559614427319503, guid: 5281a613a3f881443886019e2490bd60, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 81f8fc63aacae304e81e79d0b19a6e3c
+  - enabled: 1
+    path: Assets/Scenes/lvl_frontLawn.unity
+    guid: 42c4d9e2ab057244cbc93f5d2b1c889a
+  - enabled: 1
+    path: Assets/Scenes/lvl_garage.unity
+    guid: e30b1495304104f4f824f96e56924b95
+  - enabled: 1
+    path: Assets/Scenes/lvl_kitchen.unity
+    guid: abdd3fb8315cb924d8340ccc17bcb350
+  - enabled: 1
+    path: Assets/Scenes/lvl_livingroom.unity
+    guid: dffe74fa9c4c8f44fb9c1f2b88b45146
+  - enabled: 1
+    path: Assets/Scenes/lvl_bedroom.unity
+    guid: a4ea4aba588338947b2d19b3dcc6a5a7
+  - enabled: 1
+    path: Assets/Scenes/lvl_bathroom.unity
+    guid: 2ea32935487b23949a8eb3f4465491b7
+  - enabled: 0
+    path: Assets/Scenes/LevelSelect.unity
+    guid: d5ccf78f37a3c494bbf5f55f0879b95b
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

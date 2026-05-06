@@ -1,0 +1,4 @@
+repository "Get Out of My House! 2026-02-05_18-58-50/Get Out of My House!@2475814366530@cloud"
+  path "/"
+    br "/main"
+    co "/main"
